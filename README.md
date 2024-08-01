@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/chirag-aggarwal-066b97248/" target="blank">
 Aditya Panchal</a></h1>
-<h3 align="center">A passionate computer science  student from India🇮🇳 &#127470;&#127475</h3>
+<h3 align="center">A passionate computer science  student from India &#127470;&#127475</h3>
 
 <br />
 
